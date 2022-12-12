@@ -5,3 +5,17 @@
 		font-weight: bold;
 	}
 }
+.barStyle {
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: blue;
+	height: 16px;
+	margin-top: 3px;
+	display: inline-block,
+}
+.parent{
+	display: flex;
+}
+.size{
+	width: 8em;
+}
